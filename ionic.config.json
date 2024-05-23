@@ -1,0 +1,7 @@
+{
+  "name": "aulex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
